@@ -12,7 +12,7 @@ void main()
 	setlocale(LC_ALL, "Russian");
 	int n;
 	cout << "Введите клличество   : "; cin >> n;
-
+	//Добавил пробелы
 #ifdef GEOMETRIA_1
 	{
 
