@@ -1,4 +1,4 @@
-#include<iostream>
+ï»¿#include<iostream>
 using namespace std;
 #define GEOMETRIA_1
 #define GEOMETRIA_2
@@ -11,7 +11,7 @@ void main()
 {
 	setlocale(LC_ALL, "Russian");
 	int n;
-	cout << "Ââåäèòå êëëè÷åñòâî: "; cin >> n;
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÐºÐ»Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾   : "; cin >> n;
 
 #ifdef GEOMETRIA_1
 	{
